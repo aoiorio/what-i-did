@@ -5,7 +5,6 @@
 ### April 🍔
 - ひたすらgithubに草を生やした。
 - push, commit, addを学んだ。
-
 - クラスに慣れるためうろちょろした。
 - pythonのif, for, input文を学んだ。
 - 上原さんがflutterと言っていたのを聞き、flutterの環境構築を始めた。
