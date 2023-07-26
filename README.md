@@ -20,6 +20,7 @@
   - youtubeを見て模写をした。
   - [The Wall / Coding a Social Media App • Flutter x Firebase Tutorial](https://www.youtube.com/watch?v=yJ7qQxzkh9E)
   - 自分でつけたい機能を考えた。
+  - 全体的にborder-radiusをつけた
 - Udemyで学んでいたflutterのアプリを一つ開発した(模写)
   - サイコロをランダムに表示するアプリ
 - rebase, resetを学んだ。
