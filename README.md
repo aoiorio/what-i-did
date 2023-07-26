@@ -18,7 +18,7 @@
 ### June 🍭
 - flutterでチャットアプリを一つ作った
   - youtubeを見て模写をした。
-  - URL:     https://www.youtube.com/watch?v=yJ7qQxzkh9E
+  - [The Wall / Coding a Social Media App • Flutter x Firebase Tutorial](https://www.youtube.com/watch?v=yJ7qQxzkh9E)
   - 自分でつけたい機能を考えた。
 - Udemyで学んでいたflutterのアプリを一つ開発した(模写)
   - サイコロをランダムに表示するアプリ
