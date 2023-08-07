@@ -38,7 +38,7 @@
 - pythonのpysimpleguiを学んだ。
 - djangoでレシピ検索アプリを開発
   - [moonfish GitHub repository 🍡](https://github.com/aoiorio/moonfish)
-  - [moonfish Google Slides](https://docs.google.com/presentation/d/13wHt8FQVBZEA3shhxILSTjM3Av_2Xl_wug-s9pC3Bbg/edit#slide=id.g25e0cbbc965_0_213)
+  - [moonfish Google Slides 🍿](https://docs.google.com/presentation/d/13wHt8FQVBZEA3shhxILSTjM3Av_2Xl_wug-s9pC3Bbg/edit#slide=id.g25e0cbbc965_0_213)
 
 ## Results 🥟
 [作ったアプリのリポジトリ Medachat](https://github.com/aoiorio/The-Medachat)
