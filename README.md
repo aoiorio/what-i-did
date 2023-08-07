@@ -36,6 +36,8 @@
 - pythonの課題に向けて、djangoをpaizaで学んでいた。
 - djangoのチームが結成された。私も参加した。
 - pythonのpysimpleguiを学んだ。
+- Djangoでレシピ検索アプリを開発
+  - 
 
 ## Results 🥟
 [作ったアプリのリポジトリ Medachat](https://github.com/aoiorio/The-Medachat)
